@@ -10,6 +10,7 @@ Enlaces para acceder a los repositorios de cada una de las materias.
 | Bases de Datos | https://github.com/MateoCarballo/BasesdeDatos|
 | Contornos      |    https://github.com/MateoCarballo/Contornos|
 
+```Nota aclarativa: No me hago responsable del uso que se haga del material subido a este repositorio.```
 
 Enlaces curiosos que pueden ser utiles.
 
