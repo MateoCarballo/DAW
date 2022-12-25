@@ -11,6 +11,19 @@ Enlaces para acceder a los repositorios de cada una de las materias.
 | Contornos      |    https://github.com/MateoCarballo/Contornos|
 
 
+Enlaces curiosos que pueden ser utiles.
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|ChatGPT | https://chat.openai.com/chat|
+|Jasper AI |www.jasper.ai|
+|Synthesia|https://www.synthesia.io|
+|Dall-E-2|https://labs.openai.com|
+  
+</details>
 
 
 
