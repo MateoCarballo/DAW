@@ -14,7 +14,7 @@ Enlaces para acceder a los repositorios de cada una de las materias.
 Enlaces curiosos que pueden ser utiles.
 
 <details>
-<summary>My top languages</summary>
+<summary>Enlaces a páginas curiosas</summary>
 
 | Rank | Languages |
 |-----:|-----------|
