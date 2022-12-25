@@ -4,7 +4,7 @@ Enlaces para acceder a los repositorios de cada una de las materias.
 
 
 
-| Materia | Enlace                      |
+| Materia | Enlaces                      |
 |--------:|-----------------------------------------------------|
 | Programacion   | https://github.com/MateoCarballo/Programacion|
 | Bases de Datos | https://github.com/MateoCarballo/BasesdeDatos|
@@ -16,7 +16,7 @@ Enlaces curiosos que pueden ser utiles.
 <details>
 <summary>Enlaces a páginas curiosas</summary>
 
-| Rank | Languages |
+| Nombre | Enalces |
 |-----:|-----------|
 |ChatGPT | https://chat.openai.com/chat|
 |Jasper AI |www.jasper.ai|
