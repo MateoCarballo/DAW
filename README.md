@@ -17,8 +17,8 @@ Enlaces curiosos que pueden ser utiles.
 <details>
 <summary>Enlaces a páginas curiosas</summary>
 
-| Nombre | Enalces |
-|-----:|-----------|
+| Nombre |
+|-----:|
 |[ChatGPT](https://chat.openai.com/chat) | 
 |[Jasper AI](www.jasper.ai)|
 |[Synthesia](https://www.synthesia.io)|
