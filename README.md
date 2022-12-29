@@ -19,11 +19,11 @@ Enlaces curiosos que pueden ser utiles.
 
 | Nombre | Enalces |
 |-----:|-----------|
-|ChatGPT | https://chat.openai.com/chat|
-|Jasper AI |www.jasper.ai|
-|Synthesia|https://www.synthesia.io|
-|Dall-E-2|https://labs.openai.com|
-  
+|[ChatGPT](https://chat.openai.com/chat) | 
+|[Jasper AI](www.jasper.ai)|
+|[Synthesia](https://www.synthesia.io)|
+|[Dall-E-2](https://labs.openai.com)|
+|[Sintaxis Markdown](https://daringfireball.net/projects/markdown/syntax)|  
 </details>
 
 
