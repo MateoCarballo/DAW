@@ -23,11 +23,21 @@ Enlaces curiosos que pueden ser utiles.
 |[Jasper AI](www.jasper.ai)|
 |[Synthesia](https://www.synthesia.io)|
 |[Dall-E-2](https://labs.openai.com)|
-|[Sintaxis Markdown](https://daringfireball.net/projects/markdown/syntax)|  
+|[Sintaxis Markdown](https://daringfireball.net/projects/markdown/syntax)|
+|[Información de varios lenguajes](https://devdocs.io/css/)|
+|[Enlace sintaxis básica ficheros .md](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
+|[Enlace Sintaxis ficheros markdown (.md)](https://daringfireball.net/projects/markdown/syntax)|
+
 </details>
 
+<!-- TO DO:
+      
+<details>
+<summary> UTILIDADES </summary>
 
+| Nombre |
+|-----:| 
 
+</details>
+      -->
 
-
-<!-- TO DO: Añadir una tabla con los tres enlaces -->
