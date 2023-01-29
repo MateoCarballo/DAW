@@ -23,5 +23,6 @@ Recursos adicionales:
 | Lenguajes Dev    | [Enlace](https://devdocs.io/css/)|
 | Sintaxis .md     | [Enlace](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
 | Markdown (.md)   | [Enlace](https://daringfireball.net/projects/markdown/syntax)|
+|Emojis para (.md) |[Enlace](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)|
 
 </details>
