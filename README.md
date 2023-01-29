@@ -1,43 +1,27 @@
 ## DAW
 
-Enlaces para acceder a los repositorios de cada una de las materias.
+Enlaces para acceder a los repositorios de cada materia:
 
+| Materia      | Enlace Repositorio |
+|--------------|--------------------|
+| Programación | [Enlace](https://github.com/MateoCarballo/Programacion)|
+| Bases de Datos| [Enlace](https://github.com/MateoCarballo/BasesdeDatos)|
+| Contornos    | [Enlace](https://github.com/MateoCarballo/Contornos)|
 
-
-| Materia | Enlaces                      |
-|--------:|-----------------------------------------------------|
-| Programacion   | [Enlace repo](https://github.com/MateoCarballo/Programacion)|
-| Bases de Datos | [Enlace repo](https://github.com/MateoCarballo/BasesdeDatos)|
-| Contornos      | [Enlace repo](https://github.com/MateoCarballo/Contornos)|
-
-```Nota aclarativa: No me hago responsable del uso que se haga del material subido a este repositorio.```
-
-Enlaces curiosos que pueden ser utiles.
+Recursos adicionales:
 
 <details>
-<summary>Enlaces a páginas curiosas</summary>
+<summary>Recursos Útiles</summary>
 
-| Nombre |
-|-----:|
-|[ChatGPT](https://chat.openai.com/chat) | 
-|[Jasper AI](www.jasper.ai)|
-|[Synthesia](https://www.synthesia.io)|
-|[Dall-E-2](https://labs.openai.com)|
-|[Sintaxis Markdown](https://daringfireball.net/projects/markdown/syntax)|
-|[Información de varios lenguajes](https://devdocs.io/css/)|
-|[Enlace sintaxis básica ficheros .md](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
-|[Enlace Sintaxis ficheros markdown (.md)](https://daringfireball.net/projects/markdown/syntax)|
-
-</details>
-
-<!-- TO DO:
-      
-<details>
-<summary> UTILIDADES </summary>
-
-| Nombre |
-|-----:| 
+| Nombre           | Enlace |
+|------------------|--------|
+| ChatGPT          | [Enlace](https://chat.openai.com/chat) |
+| Jasper AI        | [Enlace](www.jasper.ai)|
+| Synthesia        | [Enlace](https://www.synthesia.io)|
+| Dall-E-2         | [Enlace](https://labs.openai.com)|
+| Sintaxis Markdown| [Enlace](https://daringfireball.net/projects/markdown/syntax)|
+| Lenguajes Dev    | [Enlace](https://devdocs.io/css/)|
+| Sintaxis .md     | [Enlace](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
+| Markdown (.md)   | [Enlace](https://daringfireball.net/projects/markdown/syntax)|
 
 </details>
-      -->
-
