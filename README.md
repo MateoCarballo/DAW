@@ -1,6 +1,6 @@
-## DAW  :+1:
+DAW :computer:
 
-Enlaces para acceder a los repositorios de cada materia:
+¡Bienvenidos al repositorio de mis materias de DAW! Aquí encontrarás información y recursos útiles relacionados con programación, bases de datos y contornos.
 
 | Materia      | Enlace Repositorio |
 |--------------|--------------------|
@@ -25,9 +25,5 @@ Recursos adicionales:
 | Sintaxis .md     | [Enlace](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
 | Markdown (.md)   | [Enlace](https://daringfireball.net/projects/markdown/syntax)|
 |Emojis para (.md) |[Enlace](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)|
-
-
-
-
 
 </details>
