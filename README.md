@@ -1,14 +1,16 @@
-DAW :computer:
+# DAW :+1:
 
-¡Bienvenidos al repositorio de mis materias de DAW! Aquí encontrarás información y recursos útiles relacionados con programación, bases de datos y contornos.
+Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
+
+## Materias
 
 | Materia      | Enlace Repositorio |
 |--------------|--------------------|
-| Programación | [Enlace](https://github.com/MateoCarballo/Programacion)|
-| Bases de Datos| [Enlace](https://github.com/MateoCarballo/BasesdeDatos)|
-| Contornos    | [Enlace](https://github.com/MateoCarballo/Contornos)|
+| :computer: Programación | [Enlace](https://github.com/MateoCarballo/Programacion)|
+| :floppy_disk: Bases de Datos| [Enlace](https://github.com/MateoCarballo/BasesdeDatos)|
+| :bulb: Contornos    | [Enlace](https://github.com/MateoCarballo/Contornos)|
 
-Recursos adicionales:
+## Recursos Útiles
 
 <details>
 <summary>Recursos Útiles</summary>
@@ -24,6 +26,3 @@ Recursos adicionales:
 | Lenguajes Dev    | [Enlace](https://devdocs.io/css/)|
 | Sintaxis .md     | [Enlace](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
 | Markdown (.md)   | [Enlace](https://daringfireball.net/projects/markdown/syntax)|
-|Emojis para (.md) |[Enlace](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)|
-
-</details>
